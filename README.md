@@ -9,7 +9,7 @@
   
 <h3 align="left">Contatos:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9-p%c3%a1dua-a64b85233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-p%c3%a1dua-a64b85233/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-p%C3%A1dua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-p%c3%a1dua-a64b85233/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
