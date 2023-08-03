@@ -1,5 +1,5 @@
-<h1 align="center">Oi, eu sou o José Pádua</h1>
-<h3 align="center">Ciência de dados | Análise de Dados | Bacharel em Engenharia de Software (4/8)</h3>
+<h1>José Pádua</h1>
+<h3>Ciência de dados | Análise de Dados | Bacharel em Engenharia de Software (4/8)</h3>
 
 * Atualmente Aprendendo alguns Frameworks no Python: **Sklearn, Keras & TensorFlow (Machine Learning)**
 
