@@ -5,8 +5,6 @@
 
 * Me pergunte sobre: **SQL, Excel, Python & Jupyter Notebook**
 
-* Você me acha através do e-mail: **josegabrielpadua@gmail.com**
-
 <h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9-p%c3%a1dua-a64b85233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-p%c3%a1dua-a64b85233/" height="30" width="40" /></a>
