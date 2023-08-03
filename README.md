@@ -5,7 +5,7 @@
 
 * Me pergunte sobre: **SQL, Excel, Python & Jupyter Notebook**
 
-* Contato: josegabrielpadua@gmail.com
+* E-mail: josegabrielpadua@gmail.com
   
 <h3 align="left">Contatos:</h3>
 <p align="left">
