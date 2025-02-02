@@ -1,5 +1,5 @@
 <h1>José Pádua</h1>
-<h3>Ciência de dados | Análise de Dados | Bacharel em Engenharia de Software (5/8)</h3>
+<h3>Ciência de dados | Análise de Dados | Bacharel em Engenharia de Software (7/8)</h3>
 
 * Atualmente Aprendendo alguns Frameworks no Python: **Sklearn, Keras & TensorFlow (Machine Learning)**
 
